@@ -2,6 +2,8 @@
 
 Real-time agentic UI for the OCR Agent API. Upload PDFs, view extracted content, search, run RAG queries, and watch LLM audit logs live.
 
+<img width="1720" height="964" alt="image" src="https://github.com/user-attachments/assets/f83e49cc-9aa7-43e8-98c1-1f7a5818e7f3" />
+
 ## Configuration
 
 Copy `.env.example` to `.env` and set the backend URL:
